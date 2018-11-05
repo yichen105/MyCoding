@@ -45,7 +45,11 @@ Robo Raid：外星人进入你的房间，在墙上产生逼真的洞。一些�
 
 - 使用您的个人数字犯罪实验室和一系列先进的取证工具来破解案件。
 
+## 开发前的背景
 
+今天，我们正在看一款名为Fragments的游戏，这款游戏刚刚出现在微软商店中，将您的生活空间变成了犯罪现场，让您置身于未来的侦探之中。这可能是最具沉浸感的HoloLens体验。
+
+![](https://youtu.be/xq8fxW0XhYY)
 
 ## 网上搜集资料如下：
 [1. Asobo Studio](http://www.asobostudio.com/games/fragments)
