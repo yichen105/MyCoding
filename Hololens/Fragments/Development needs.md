@@ -28,7 +28,7 @@
 ### 游戏 
 
 碎片：一种亲身生活的调查游戏。你是侦探，你的家就是犯罪现场。您的角色是帮助团队解决案例。
-
+![](https://github.com/dengxiangliu/MyCoding/blob/master/Hololens/Fragments/Image/107.png)
 
 
 ## 网上搜集资料如下：
