@@ -15,7 +15,7 @@
     着一堵空白的墙壁，点击那些不存在的东西。
     
 
-> 适应房间的大小
+- [] 适应房间的大小
 
 > 房间解决方案AI
 
@@ -30,3 +30,7 @@
 [2. FRAGMENTS: DESIGN FOR MIXED REALITY](http://secondtruth.com/2016/05/fragments-design-for-mixed-reality/)
 
 [3. Fragments Found My Couch, But How?](http://www.roadtomr.com/2016/04/24/762/fragments-found-my-couch-but-how/)
+
+
+
+
