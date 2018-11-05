@@ -7,3 +7,5 @@
 > 具有世界意识的角色
 
 > 情感故事
+
+![Asobo Studio](http://www.asobostudio.com/games/fragments)
