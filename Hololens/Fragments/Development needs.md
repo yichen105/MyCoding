@@ -65,6 +65,8 @@ Robo Raid：外星人进入你的房间，在墙上产生逼真的洞。一些�
 
 [3. Fragments Found My Couch, But How?](http://www.roadtomr.com/2016/04/24/762/fragments-found-my-couch-but-how/)
 
+[4. Windows Central](https://www.windowscentral.com/fragments-hololens-incredible-game-turns-your-home-crime-scene)
+
 
 
 
