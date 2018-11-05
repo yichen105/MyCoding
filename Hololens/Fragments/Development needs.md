@@ -25,4 +25,6 @@
 
 
 ## 网上搜集资料如下：
-[Asobo Studio](http://www.asobostudio.com/games/fragments)
+[1. Asobo Studio](http://www.asobostudio.com/games/fragments)
+
+[2. FRAGMENTS: DESIGN FOR MIXED REALITY](http://secondtruth.com/2016/05/fragments-design-for-mixed-reality/)
