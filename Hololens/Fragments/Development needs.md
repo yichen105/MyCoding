@@ -8,4 +8,4 @@
 
 > 情感故事
 
-![Asobo Studio](http://www.asobostudio.com/games/fragments)
+[Asobo Studio](http://www.asobostudio.com/games/fragments)
