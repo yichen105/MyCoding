@@ -57,6 +57,12 @@ Robo Raid：外星人进入你的房间，在墙上产生逼真的洞。一些�
 
 游戏还可以在您房间的特定位置放置证据，而不会在现实生活中使用所述证据剪切对象。还有一个令人惊讶的元素，因为游戏知道你一直站在哪里，角色可以在你不知情的情况下潜入你身后，这总是一种热情的体验。对于在HoloLens上运行的游戏而言，图形也非常有用，其中角色可以进出，以及在你的生活空间冒险时使用粒子效果建立犯罪场景。
 
+## 用帮助文本和音频提示指导用户
+
+Fragments采用了几种策略来定位玩家并确保他们能够导航游戏并跟随故事。
+使用跟随视野的箭头，它会提示玩家使用帮助文本（例如“Look Here”和“Go Here”）在空间中移动，甚至指定所需位置是否在物理障碍物后面。该游戏还提供大多数可交互对象的音频反馈，提供更大的背景故事和提示，以保持播放器的正常运行。这些功能使Fragments能够让玩家自由地浏览故事，同时提供指导以帮助他们适应增强现实。
+
+
 
 ## 网上搜集资料如下：
 [1. Asobo Studio](http://www.asobostudio.com/games/fragments)
@@ -66,6 +72,10 @@ Robo Raid：外星人进入你的房间，在墙上产生逼真的洞。一些�
 [3. Fragments Found My Couch, But How?](http://www.roadtomr.com/2016/04/24/762/fragments-found-my-couch-but-how/)
 
 [4. Windows Central](https://www.windowscentral.com/fragments-hololens-incredible-game-turns-your-home-crime-scene)
+
+[5. Augmented Reality UX Principles we can learn from Fragments for Hololens](https://blog.prototypr.io/augmented-reality-ux-principles-we-can-learn-from-fragments-for-hololens-38ce4c19990b)
+
+
 
 
 
