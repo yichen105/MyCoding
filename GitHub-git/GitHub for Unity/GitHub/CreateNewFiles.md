@@ -2,7 +2,7 @@
 ## Step1
 点击“create new file”的按钮
 
-![](https://github.com/dengxiangliu/MyCoding/blob/master/Unity3D/GitHub/TSetImage/CreateFile.png)
+![](https://github.com/dengxiangliu/MyCoding/blob/master/GitHub-git/GitHub%20for%20Unity/GitHub/TSetImage/CreateFile.png)
 
 ## Step2
 在输入文件名的输入框中输入文件夹名字
@@ -14,6 +14,6 @@
 
 ## Step3
 点击下面的commit new file
-![](https://github.com/dengxiangliu/MyCoding/blob/master/Unity3D/GitHub/TSetImage/CommitNewfile.png)
+![](https://github.com/dengxiangliu/MyCoding/blob/master/GitHub-git/GitHub%20for%20Unity/GitHub/TSetImage/CommitNewfile.png)
 
 
